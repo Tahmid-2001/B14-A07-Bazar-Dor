@@ -4,11 +4,6 @@
 
 ---
 
-## 🔗 Project Links
-- **Live Link:** [Paste your Vercel Live Link here]
-- **GitHub Repository Link:** [Paste your GitHub Repository Link here]
-
----
 
 ## 🛠️ Technologies Used
 - **Next.js 14 (App Router)** — File-based routing, dynamic routes, and UI rendering
